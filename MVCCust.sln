@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCust", "MVCCust\MVCCust.csproj", "{241D5A0C-4A1E-4AAB-ADF5-A98994E95B9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCProvider", "MVCProvider\MVCProvider.csproj", "{5B93F9E8-4FE6-454F-A915-715330D1BA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToArgumentsTest", "StringToArgumentsTest\StringToArgumentsTest.csproj", "{8B8774C8-227B-4A13-9BA0-5CC37A42DDAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241D5A0C-4A1E-4AAB-ADF5-A98994E95B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241D5A0C-4A1E-4AAB-ADF5-A98994E95B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241D5A0C-4A1E-4AAB-ADF5-A98994E95B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241D5A0C-4A1E-4AAB-ADF5-A98994E95B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B93F9E8-4FE6-454F-A915-715330D1BA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B93F9E8-4FE6-454F-A915-715330D1BA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B93F9E8-4FE6-454F-A915-715330D1BA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B93F9E8-4FE6-454F-A915-715330D1BA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8774C8-227B-4A13-9BA0-5CC37A42DDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8774C8-227B-4A13-9BA0-5CC37A42DDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8774C8-227B-4A13-9BA0-5CC37A42DDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8774C8-227B-4A13-9BA0-5CC37A42DDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MVCCust\MVCCust.csproj
+	EndGlobalSection
+EndGlobal
